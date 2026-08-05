@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://githubusercontent.com" alt="MoustacheCode Profile Banner" width="100%">
+  <img src="MoustacheCode-profile-banner-ezgif.com-crop.gif" alt="MoustacheCode Profile Banner" width="100%">
 </p>
 
 
