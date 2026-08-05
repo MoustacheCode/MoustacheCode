@@ -10,6 +10,18 @@ I learn best by breaking problems into small, testable steps and building iterat
 
 My goal is simple: become a confident full‑stack engineer who can ship features, solve problems, and collaborate effectively.
 
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="assets/js.gif" height="60" />
+  <img src="assets/node.gif" height="60" />
+  <img src="assets/react.gif" height="60" />
+  <img src="assets/html.gif" height="60" />
+  <img src="assets/css.gif" height="60" />
+  <img src="assets/django.gif" height="60" />
+  <img src="assets/bootstrap.gif" height="60" />
+  
+</div>
 
 
 
