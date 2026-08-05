@@ -38,19 +38,20 @@ My goal is simple: become a confident full‑stack engineer who can ship feature
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://instagram.com/handlebar.moustache" target="_blank">
+  <a href="https://instagram.com/handlebar.moustache">
     <img src="assets/instagram.gif" height="60" />
   </a>
-  <a href="https://facebook.com/rik.duerden" target="_blank">
+  <a href="https://facebook.com/rik.duerden">
     <img src="assets/facebook.gif" height="60" />
   </a>
-  <a href="https://discord.gg/HMoustache#8325" target="_blank">
+  <a href="https://discord.com/users/HMoustache#8325">
     <img src="assets/discord.gif" height="60" />
   </a>
-  <a href="https://wa.me/07502272804" target="_blank">
+  <a href="https://wa.me/447502272804">
     <img src="assets/whatsapp.gif" height="60" />
   </a>
-  <a href="https://www.linkedin.com/in/richard-duerden" target="_blank">
+  <a href="https://www.linkedin.com/in/richard-duerden">
     <img src="assets/linkedin.gif" height="60" />
   </a>
 </div>
+
