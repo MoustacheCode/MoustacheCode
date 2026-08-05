@@ -11,14 +11,6 @@ I learn best by breaking problems into small, testable steps and building iterat
 My goal is simple: become a confident full‑stack engineer who can ship features, solve problems, and collaborate effectively.
 
 
-## 📊 GitHub Stats
-
-![MoustacheCode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoustacheCode&show_icons=true&theme=tokyonight)
-
-
-## 📈 Activity Graph
-
-![MoustacheCode's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoustacheCode&theme=tokyo-night)
 
 
 
