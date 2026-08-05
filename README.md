@@ -41,7 +41,7 @@ My goal is simple: become a confident full‑stack engineer who can ship feature
   <a href="https://instagram.com/handlebar.moustache">
     <img src="assets/instagram.gif" height="60" />
   </a>
-  <a href="https://facebook.com/rik.duerden">
+  <a href="[https://facebook.com/rik.duerden](https://www.facebook.com/profile.php?id=100001209631518)">
     <img src="assets/facebook.gif" height="60" />
   </a>
   <a href="https://discord.com/users/231353420282331136">
